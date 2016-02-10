@@ -171,7 +171,7 @@ ent-v314-013:~ student$
 Write the command you used to determine your directory.  Also, copy and paste the output below.
 ----------
 
-tar: no files or directories specified
+
 
 ==========
 12. If you're not in your home directory, change to it (use the shortcut).
